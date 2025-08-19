@@ -1,5 +1,5 @@
 # PhanTichThietKe
-# Giới thiệu đề tài
+# Đề tài : Website đặt phòng khách sạn
 
 Đề tài “Xây dựng website đặt phòng khách sạn” được phát triển nhằm mang đến một giải pháp trực tuyến hiện đại, giúp khách hàng dễ dàng tìm kiếm, lựa chọn và đặt phòng khách sạn nhanh chóng, thuận tiện. Hệ thống cho phép quản lý thông tin khách sạn, phòng nghỉ, giá cả, tình trạng phòng, cũng như hỗ trợ khách hàng trong quá trình đặt và thanh toán.
 
